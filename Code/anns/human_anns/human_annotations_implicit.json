@@ -1,0 +1,4646 @@
+{
+  "i05june05_static_street_boston_p1010764.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 18768,
+      "objects": [
+        {
+          "label": "traffic light_2",
+          "click_ts": 1753408480404,
+          "x": 688,
+          "y": 346
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753408483372,
+          "x": 423,
+          "y": 489
+        },
+        {
+          "label": "car_4",
+          "click_ts": 1753408484121,
+          "x": 510,
+          "y": 478
+        },
+        {
+          "label": "car_2",
+          "click_ts": 1753408485155,
+          "x": 553,
+          "y": 487
+        },
+        {
+          "label": "car_3",
+          "click_ts": 1753408485822,
+          "x": 598,
+          "y": 479
+        }
+      ]
+    }
+  ],
+  "i05june05_static_street_boston_p1010785.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 11512,
+      "objects": [
+        {
+          "label": "car_2",
+          "click_ts": 1753408487771,
+          "x": 650,
+          "y": 449
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753408488504,
+          "x": 267,
+          "y": 503
+        },
+        {
+          "label": "car_3",
+          "click_ts": 1753408489421,
+          "x": 988,
+          "y": 481
+        },
+        {
+          "label": "car_4",
+          "click_ts": 1753408494005,
+          "x": 328,
+          "y": 422
+        },
+        {
+          "label": "car_5",
+          "click_ts": 1753408498454,
+          "x": 364,
+          "y": 448
+        }
+      ]
+    }
+  ],
+  "i05june05_static_street_boston_p1010800.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 14440,
+      "objects": [
+        {
+          "label": "bicycle_9",
+          "click_ts": 1753408500972,
+          "x": 449,
+          "y": 392
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408501737,
+          "x": 431,
+          "y": 400
+        },
+        {
+          "label": "bicycle_4",
+          "click_ts": 1753408502771,
+          "x": 781,
+          "y": 574
+        },
+        {
+          "label": "bicycle_3",
+          "click_ts": 1753408512538,
+          "x": 287,
+          "y": 394
+        },
+        {
+          "label": "bicycle_1",
+          "click_ts": 1753408513520,
+          "x": 233,
+          "y": 399
+        }
+      ]
+    }
+  ],
+  "i05june05_static_street_boston_p1010806.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 19952,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753408515472,
+          "x": 681,
+          "y": 530
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408516222,
+          "x": 745,
+          "y": 533
+        },
+        {
+          "label": "bench_1",
+          "click_ts": 1753408530738,
+          "x": 292,
+          "y": 575
+        },
+        {
+          "label": "bicycle_2",
+          "click_ts": 1753408532921,
+          "x": 76,
+          "y": 589
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408534154,
+          "x": 825,
+          "y": 478
+        }
+      ]
+    }
+  ],
+  "i05june05_static_street_boston_p1010808.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 5104,
+      "objects": [
+        {
+          "label": "person_7",
+          "click_ts": 1753408539054,
+          "x": 488,
+          "y": 443
+        },
+        {
+          "label": "person_21",
+          "click_ts": 1753408539655,
+          "x": 428,
+          "y": 455
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408540288,
+          "x": 392,
+          "y": 446
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408541205,
+          "x": 867,
+          "y": 428
+        },
+        {
+          "label": "bicycle_1",
+          "click_ts": 1753408541872,
+          "x": 915,
+          "y": 536
+        }
+      ]
+    }
+  ],
+  "i05june05_static_street_boston_p1010816.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 8511,
+      "objects": [
+        {
+          "label": "car_1",
+          "click_ts": 1753408543921,
+          "x": 402,
+          "y": 487
+        },
+        {
+          "label": "truck_1",
+          "click_ts": 1753408547455,
+          "x": 691,
+          "y": 401
+        },
+        {
+          "label": "car_3",
+          "click_ts": 1753408548172,
+          "x": 724,
+          "y": 415
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408550172,
+          "x": 851,
+          "y": 420
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408551138,
+          "x": 951,
+          "y": 418
+        }
+      ]
+    }
+  ],
+  "i05june05_static_street_boston_p1010855.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 6946,
+      "objects": [
+        {
+          "label": "boat_1",
+          "click_ts": 1753408553422,
+          "x": 465,
+          "y": 457
+        },
+        {
+          "label": "boat_2",
+          "click_ts": 1753408554522,
+          "x": 595,
+          "y": 393
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408558571,
+          "x": 503,
+          "y": 488
+        }
+      ]
+    }
+  ],
+  "i05june05_static_street_boston_p1010885.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 6802,
+      "objects": [
+        {
+          "label": "person_6",
+          "click_ts": 1753408564088,
+          "x": 523,
+          "y": 364
+        },
+        {
+          "label": "person_9",
+          "click_ts": 1753408564772,
+          "x": 499,
+          "y": 369
+        },
+        {
+          "label": "person_15",
+          "click_ts": 1753408565905,
+          "x": 563,
+          "y": 367
+        },
+        {
+          "label": "person_19",
+          "click_ts": 1753408566856,
+          "x": 619,
+          "y": 378
+        },
+        {
+          "label": "person_23",
+          "click_ts": 1753408567456,
+          "x": 600,
+          "y": 377
+        }
+      ]
+    }
+  ],
+  "i1000274881.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 18611,
+      "objects": [
+        {
+          "label": "bird_2",
+          "click_ts": 1753408570855,
+          "x": 329,
+          "y": 377
+        },
+        {
+          "label": "bird_1",
+          "click_ts": 1753408571538,
+          "x": 421,
+          "y": 364
+        },
+        {
+          "label": "clock_1",
+          "click_ts": 1753408572405,
+          "x": 352,
+          "y": 253
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753408575322,
+          "x": 468,
+          "y": 791
+        },
+        {
+          "label": "airplane_1",
+          "click_ts": 1753408586755,
+          "x": 480,
+          "y": 283
+        }
+      ]
+    }
+  ],
+  "i1007068829.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 12390,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753408588755,
+          "x": 373,
+          "y": 295
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408591605,
+          "x": 617,
+          "y": 739
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408599605,
+          "x": 171,
+          "y": 565
+        }
+      ]
+    }
+  ],
+  "i100856683.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 9242,
+      "objects": [
+        {
+          "label": "horse_2",
+          "click_ts": 1753408606436,
+          "x": 517,
+          "y": 436
+        },
+        {
+          "label": "horse_1",
+          "click_ts": 1753408608038,
+          "x": 405,
+          "y": 470
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408611688,
+          "x": 715,
+          "y": 497
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408612488,
+          "x": 573,
+          "y": 382
+        },
+        {
+          "label": "person_5",
+          "click_ts": 1753408613555,
+          "x": 385,
+          "y": 407
+        }
+      ]
+    }
+  ],
+  "i1010483663.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 5889,
+      "objects": [
+        {
+          "label": "truck_1",
+          "click_ts": 1753408615405,
+          "x": 585,
+          "y": 424
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753408616505,
+          "x": 193,
+          "y": 421
+        },
+        {
+          "label": "truck_2",
+          "click_ts": 1753408620039,
+          "x": 356,
+          "y": 568
+        }
+      ]
+    }
+  ],
+  "i1014163009.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 16850,
+      "objects": [
+        {
+          "label": "dining table_1",
+          "click_ts": 1753408624455,
+          "x": 501,
+          "y": 304
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753408628339,
+          "x": 620,
+          "y": 73
+        },
+        {
+          "label": "cake_1",
+          "click_ts": 1753408629272,
+          "x": 115,
+          "y": 67
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753408634789,
+          "x": 951,
+          "y": 55
+        },
+        {
+          "label": "bowl_2",
+          "click_ts": 1753408637423,
+          "x": 1012,
+          "y": 180
+        }
+      ]
+    }
+  ],
+  "i1019046221.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 10775,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753408641055,
+          "x": 513,
+          "y": 245
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408641871,
+          "x": 249,
+          "y": 320
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408642672,
+          "x": 733,
+          "y": 327
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753408647755,
+          "x": 28,
+          "y": 393
+        },
+        {
+          "label": "chair_2",
+          "click_ts": 1753408650088,
+          "x": 103,
+          "y": 394
+        }
+      ]
+    }
+  ],
+  "i1019928312.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 4953,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753408652254,
+          "x": 602,
+          "y": 208
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408652988,
+          "x": 747,
+          "y": 199
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408653787,
+          "x": 226,
+          "y": 268
+        },
+        {
+          "label": "person_8",
+          "click_ts": 1753408654821,
+          "x": 684,
+          "y": 278
+        },
+        {
+          "label": "person_9",
+          "click_ts": 1753408655772,
+          "x": 428,
+          "y": 421
+        }
+      ]
+    }
+  ],
+  "i1021218710.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 6326,
+      "objects": [
+        {
+          "label": "person_4",
+          "click_ts": 1753408657689,
+          "x": 481,
+          "y": 371
+        },
+        {
+          "label": "person_7",
+          "click_ts": 1753408660571,
+          "x": 560,
+          "y": 430
+        },
+        {
+          "label": "person_6",
+          "click_ts": 1753408661088,
+          "x": 603,
+          "y": 366
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408661688,
+          "x": 681,
+          "y": 399
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408662889,
+          "x": 892,
+          "y": 281
+        }
+      ]
+    }
+  ],
+  "i1022085609.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 16611,
+      "objects": [
+        {
+          "label": "truck_2",
+          "click_ts": 1753408673239,
+          "x": 215,
+          "y": 566
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753408674256,
+          "x": 158,
+          "y": 570
+        },
+        {
+          "label": "truck_1",
+          "click_ts": 1753408675606,
+          "x": 92,
+          "y": 548
+        },
+        {
+          "label": "car_2",
+          "click_ts": 1753408677572,
+          "x": 105,
+          "y": 578
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408681672,
+          "x": 206,
+          "y": 589
+        }
+      ]
+    }
+  ],
+  "i1025132509.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 6794,
+      "objects": [
+        {
+          "label": "car_7",
+          "click_ts": 1753408685105,
+          "x": 478,
+          "y": 486
+        },
+        {
+          "label": "car_4",
+          "click_ts": 1753408686373,
+          "x": 453,
+          "y": 483
+        },
+        {
+          "label": "car_3",
+          "click_ts": 1753408687255,
+          "x": 509,
+          "y": 485
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753408688104,
+          "x": 583,
+          "y": 484
+        },
+        {
+          "label": "car_6",
+          "click_ts": 1753408688989,
+          "x": 669,
+          "y": 487
+        }
+      ]
+    }
+  ],
+  "i103134560.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 5839,
+      "objects": [
+        {
+          "label": "boat_3",
+          "click_ts": 1753408691739,
+          "x": 344,
+          "y": 353
+        },
+        {
+          "label": "boat_2",
+          "click_ts": 1753408692656,
+          "x": 480,
+          "y": 276
+        },
+        {
+          "label": "boat_1",
+          "click_ts": 1753408695290,
+          "x": 807,
+          "y": 551
+        }
+      ]
+    }
+  ],
+  "i1031604161.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 15531,
+      "objects": [
+        {
+          "label": "cat_1",
+          "click_ts": 1753408700139,
+          "x": 484,
+          "y": 294
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753408701505,
+          "x": 401,
+          "y": 398
+        },
+        {
+          "label": "chair_7",
+          "click_ts": 1753408704006,
+          "x": 699,
+          "y": 464
+        },
+        {
+          "label": "chair_9",
+          "click_ts": 1753408707353,
+          "x": 663,
+          "y": 234
+        },
+        {
+          "label": "chair_8",
+          "click_ts": 1753408712973,
+          "x": 900,
+          "y": 378
+        }
+      ]
+    }
+  ],
+  "i1032358.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 9843,
+      "objects": [
+        {
+          "label": "car_1",
+          "click_ts": 1753408715006,
+          "x": 320,
+          "y": 514
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753408716189,
+          "x": 673,
+          "y": 398
+        },
+        {
+          "label": "potted plant_2",
+          "click_ts": 1753408723539,
+          "x": 986,
+          "y": 683
+        }
+      ]
+    }
+  ],
+  "i103385035.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 7650,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753408725906,
+          "x": 604,
+          "y": 297
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753408726889,
+          "x": 363,
+          "y": 267
+        },
+        {
+          "label": "car_2",
+          "click_ts": 1753408728423,
+          "x": 208,
+          "y": 301
+        },
+        {
+          "label": "umbrella_1",
+          "click_ts": 1753408731706,
+          "x": 268,
+          "y": 77
+        }
+      ]
+    }
+  ],
+  "i1035544976.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 10490,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753408736306,
+          "x": 561,
+          "y": 327
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408737555,
+          "x": 638,
+          "y": 325
+        },
+        {
+          "label": "horse_1",
+          "click_ts": 1753408738322,
+          "x": 347,
+          "y": 388
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753408738906,
+          "x": 599,
+          "y": 525
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408744940,
+          "x": 461,
+          "y": 487
+        }
+      ]
+    }
+  ],
+  "i1040585936.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 9537,
+      "objects": [
+        {
+          "label": "bowl_1",
+          "click_ts": 1753408747023,
+          "x": 344,
+          "y": 524
+        },
+        {
+          "label": "bottle_2",
+          "click_ts": 1753408748605,
+          "x": 170,
+          "y": 571
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408750238,
+          "x": 470,
+          "y": 296
+        },
+        {
+          "label": "bottle_3",
+          "click_ts": 1753408754240,
+          "x": 557,
+          "y": 413
+        },
+        {
+          "label": "bottle_4",
+          "click_ts": 1753408755256,
+          "x": 544,
+          "y": 633
+        }
+      ]
+    }
+  ],
+  "i1042209003.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 12713,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753408758171,
+          "x": 392,
+          "y": 716
+        },
+        {
+          "label": "handbag_1",
+          "click_ts": 1753408759059,
+          "x": 233,
+          "y": 713
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408760156,
+          "x": 526,
+          "y": 701
+        },
+        {
+          "label": "handbag_3",
+          "click_ts": 1753408768205,
+          "x": 214,
+          "y": 763
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408768755,
+          "x": 213,
+          "y": 710
+        }
+      ]
+    }
+  ],
+  "i104267087.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 9498,
+      "objects": [
+        {
+          "label": "cow_1",
+          "click_ts": 1753408775039,
+          "x": 190,
+          "y": 421
+        },
+        {
+          "label": "cow_3",
+          "click_ts": 1753408778189,
+          "x": 246,
+          "y": 419
+        },
+        {
+          "label": "cow_5",
+          "click_ts": 1753408779005,
+          "x": 264,
+          "y": 407
+        },
+        {
+          "label": "cow_6",
+          "click_ts": 1753408780006,
+          "x": 431,
+          "y": 430
+        },
+        {
+          "label": "cow_7",
+          "click_ts": 1753408781123,
+          "x": 575,
+          "y": 431
+        }
+      ]
+    }
+  ],
+  "i1043252298.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 5758,
+      "objects": [
+        {
+          "label": "pizza_3",
+          "click_ts": 1753408783093,
+          "x": 510,
+          "y": 309
+        },
+        {
+          "label": "pizza_1",
+          "click_ts": 1753408783821,
+          "x": 309,
+          "y": 316
+        },
+        {
+          "label": "pizza_2",
+          "click_ts": 1753408784606,
+          "x": 713,
+          "y": 299
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753408785289,
+          "x": 522,
+          "y": 472
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408787440,
+          "x": 474,
+          "y": 95
+        }
+      ]
+    }
+  ],
+  "i104879632.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 9400,
+      "objects": [
+        {
+          "label": "handbag_2",
+          "click_ts": 1753408789456,
+          "x": 570,
+          "y": 282
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408790406,
+          "x": 468,
+          "y": 289
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408791889,
+          "x": 780,
+          "y": 434
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408792789,
+          "x": 848,
+          "y": 380
+        },
+        {
+          "label": "umbrella_1",
+          "click_ts": 1753408797472,
+          "x": 483,
+          "y": 244
+        }
+      ]
+    }
+  ],
+  "i104880109.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 5217,
+      "objects": [
+        {
+          "label": "person_5",
+          "click_ts": 1753408801355,
+          "x": 518,
+          "y": 325
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753408801923,
+          "x": 467,
+          "y": 330
+        },
+        {
+          "label": "person_7",
+          "click_ts": 1753408802556,
+          "x": 423,
+          "y": 326
+        },
+        {
+          "label": "person_4",
+          "click_ts": 1753408803256,
+          "x": 380,
+          "y": 315
+        },
+        {
+          "label": "truck_1",
+          "click_ts": 1753408804540,
+          "x": 609,
+          "y": 360
+        }
+      ]
+    }
+  ],
+  "i104935329.jpeg": [
+    {
+      "workerId": "bab94bc1-49ea-499b-a2df-ff8eec4fd1fd",
+      "time_taken": 4425,
+      "objects": [
+        {
+          "label": "horse_1",
+          "click_ts": 1753408807057,
+          "x": 594,
+          "y": 501
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408807874,
+          "x": 509,
+          "y": 490
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753408808690,
+          "x": 449,
+          "y": 471
+        },
+        {
+          "label": "boat_1",
+          "click_ts": 1753408809489,
+          "x": 461,
+          "y": 570
+        }
+      ]
+    }
+  ],
+  "i1049420118.jpeg": [
+    {
+      "workerId": "fb16fc65-fee3-47f3-aefb-dd04f3260268",
+      "time_taken": 19064,
+      "objects": [
+        {
+          "label": "car_2",
+          "click_ts": 1753408819123,
+          "x": 515,
+          "y": 381
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408820790,
+          "x": 362,
+          "y": 284
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753408825523,
+          "x": 930,
+          "y": 434
+        }
+      ]
+    }
+  ],
+  "i105126201.jpeg": [
+    {
+      "workerId": "fb16fc65-fee3-47f3-aefb-dd04f3260268",
+      "time_taken": 7019,
+      "objects": [
+        {
+          "label": "train_1",
+          "click_ts": 1753408834256,
+          "x": 368,
+          "y": 421
+        },
+        {
+          "label": "train_2",
+          "click_ts": 1753408835790,
+          "x": 312,
+          "y": 164
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753408839423,
+          "x": 33,
+          "y": 217
+        }
+      ]
+    }
+  ],
+  "i105415081.jpeg": [
+    {
+      "workerId": "fb16fc65-fee3-47f3-aefb-dd04f3260268",
+      "time_taken": 21771,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753408847056,
+          "x": 261,
+          "y": 116
+        },
+        {
+          "label": "couch_1",
+          "click_ts": 1753408847889,
+          "x": 743,
+          "y": 194
+        },
+        {
+          "label": "couch_2",
+          "click_ts": 1753408848556,
+          "x": 800,
+          "y": 193
+        },
+        {
+          "label": "chair_5",
+          "click_ts": 1753408857472,
+          "x": 667,
+          "y": 498
+        },
+        {
+          "label": "book_1",
+          "click_ts": 1753408861973,
+          "x": 198,
+          "y": 558
+        }
+      ]
+    }
+  ],
+  "i105918635.jpeg": [
+    {
+      "workerId": "f857976d-672d-490b-ad15-b86eed2734c8",
+      "time_taken": 17448,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753408896757,
+          "x": 404,
+          "y": 408
+        },
+        {
+          "label": "clock_1",
+          "click_ts": 1753408901507,
+          "x": 305,
+          "y": 884
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753408902473,
+          "x": 740,
+          "y": 675
+        }
+      ]
+    }
+  ],
+  "i1060622926.jpeg": [
+    {
+      "workerId": "f857976d-672d-490b-ad15-b86eed2734c8",
+      "time_taken": 10880,
+      "objects": [
+        {
+          "label": "car_1",
+          "click_ts": 1753408909073,
+          "x": 972,
+          "y": 385
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753408909874,
+          "x": 88,
+          "y": 341
+        },
+        {
+          "label": "potted plant_2",
+          "click_ts": 1753408914123,
+          "x": 82,
+          "y": 429
+        }
+      ]
+    }
+  ],
+  "i106390852.jpeg": [
+    {
+      "workerId": "f857976d-672d-490b-ad15-b86eed2734c8",
+      "time_taken": 9674,
+      "objects": [
+        {
+          "label": "bench_2",
+          "click_ts": 1753408921090,
+          "x": 378,
+          "y": 603
+        },
+        {
+          "label": "bench_1",
+          "click_ts": 1753408922557,
+          "x": 101,
+          "y": 573
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753408923290,
+          "x": 291,
+          "y": 583
+        },
+        {
+          "label": "potted plant_2",
+          "click_ts": 1753408924422,
+          "x": 510,
+          "y": 587
+        }
+      ]
+    }
+  ],
+  "1001.jpg": [
+    {
+      "workerId": "07087960-ac3d-4972-8feb-ea34b5de9e30",
+      "time_taken": 23916,
+      "objects": [
+        {
+          "label": "apple_1",
+          "click_ts": 1753404096781,
+          "x": 403,
+          "y": 461
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404098130,
+          "x": 456,
+          "y": 318
+        },
+        {
+          "label": "cell phone_1",
+          "click_ts": 1753404099764,
+          "x": 366,
+          "y": 105
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404104214,
+          "x": 186,
+          "y": 195
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404106162,
+          "x": 751,
+          "y": 159
+        }
+      ]
+    }
+  ],
+  "1002.jpg": [
+    {
+      "workerId": "07087960-ac3d-4972-8feb-ea34b5de9e30",
+      "time_taken": 24769,
+      "objects": [
+        {
+          "label": "person_3",
+          "click_ts": 1753404109198,
+          "x": 225,
+          "y": 312
+        },
+        {
+          "label": "tv_2",
+          "click_ts": 1753404111930,
+          "x": 445,
+          "y": 331
+        },
+        {
+          "label": "tv_1",
+          "click_ts": 1753404127313,
+          "x": 654,
+          "y": 377
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404128265,
+          "x": 56,
+          "y": 80
+        },
+        {
+          "label": "book_4",
+          "click_ts": 1753404131531,
+          "x": 494,
+          "y": 488
+        }
+      ]
+    }
+  ],
+  "1005.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 29563,
+      "objects": [
+        {
+          "label": "teddy bear_1",
+          "click_ts": 1753404353515,
+          "x": 322,
+          "y": 244
+        },
+        {
+          "label": "couch_1",
+          "click_ts": 1753404357998,
+          "x": 483,
+          "y": 207
+        },
+        {
+          "label": "bed_1",
+          "click_ts": 1753404359098,
+          "x": 382,
+          "y": 421
+        },
+        {
+          "label": "vase_1",
+          "click_ts": 1753404360431,
+          "x": 681,
+          "y": 250
+        }
+      ]
+    }
+  ],
+  "1006.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 19713,
+      "objects": [
+        {
+          "label": "cat_1",
+          "click_ts": 1753404364849,
+          "x": 416,
+          "y": 218
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404367082,
+          "x": 191,
+          "y": 374
+        },
+        {
+          "label": "book_1",
+          "click_ts": 1753404368847,
+          "x": 653,
+          "y": 411
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404371749,
+          "x": 244,
+          "y": 109
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404376815,
+          "x": 510,
+          "y": 487
+        }
+      ]
+    }
+  ],
+  "1007.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 9387,
+      "objects": [
+        {
+          "label": "teddy bear_1",
+          "click_ts": 1753404385049,
+          "x": 236,
+          "y": 188
+        },
+        {
+          "label": "book_1",
+          "click_ts": 1753404386164,
+          "x": 554,
+          "y": 223
+        },
+        {
+          "label": "bed_1",
+          "click_ts": 1753404387398,
+          "x": 396,
+          "y": 372
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404392731,
+          "x": 786,
+          "y": 72
+        }
+      ]
+    }
+  ],
+  "1008.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 16707,
+      "objects": [
+        {
+          "label": "dog_1",
+          "click_ts": 1753404394866,
+          "x": 496,
+          "y": 183
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404395898,
+          "x": 255,
+          "y": 328
+        },
+        {
+          "label": "book_1",
+          "click_ts": 1753404396964,
+          "x": 346,
+          "y": 459
+        },
+        {
+          "label": "spoon_1",
+          "click_ts": 1753404407182,
+          "x": 470,
+          "y": 516
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753404409814,
+          "x": 189,
+          "y": 263
+        }
+      ]
+    }
+  ],
+  "1009.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 27255,
+      "objects": [
+        {
+          "label": "cat_1",
+          "click_ts": 1753404423280,
+          "x": 532,
+          "y": 327
+        },
+        {
+          "label": "dog_1",
+          "click_ts": 1753404431766,
+          "x": 581,
+          "y": 425
+        },
+        {
+          "label": "skateboard_1",
+          "click_ts": 1753404433149,
+          "x": 304,
+          "y": 449
+        },
+        {
+          "label": "sports ball_1",
+          "click_ts": 1753404434348,
+          "x": 718,
+          "y": 490
+        },
+        {
+          "label": "orange_1",
+          "click_ts": 1753404439031,
+          "x": 783,
+          "y": 488
+        }
+      ]
+    }
+  ],
+  "1011.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 13789,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753404441082,
+          "x": 360,
+          "y": 192
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404442215,
+          "x": 698,
+          "y": 157
+        },
+        {
+          "label": "person_4",
+          "click_ts": 1753404445932,
+          "x": 554,
+          "y": 337
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753404450864,
+          "x": 64,
+          "y": 162
+        },
+        {
+          "label": "chair_3",
+          "click_ts": 1753404453331,
+          "x": 139,
+          "y": 503
+        }
+      ]
+    }
+  ],
+  "1012.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 4946,
+      "objects": [
+        {
+          "label": "dog_1",
+          "click_ts": 1753404455713,
+          "x": 327,
+          "y": 229
+        },
+        {
+          "label": "dog_2",
+          "click_ts": 1753404456880,
+          "x": 550,
+          "y": 413
+        },
+        {
+          "label": "bed_1",
+          "click_ts": 1753404458815,
+          "x": 694,
+          "y": 467
+        }
+      ]
+    }
+  ],
+  "1013.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 20254,
+      "objects": [
+        {
+          "label": "truck_1",
+          "click_ts": 1753404463432,
+          "x": 368,
+          "y": 274
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753404478382,
+          "x": 426,
+          "y": 461
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404479249,
+          "x": 479,
+          "y": 395
+        },
+        {
+          "label": "person_5",
+          "click_ts": 1753404480198,
+          "x": 650,
+          "y": 360
+        },
+        {
+          "label": "car_2",
+          "click_ts": 1753404480982,
+          "x": 737,
+          "y": 342
+        }
+      ]
+    }
+  ],
+  "1014.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 10771,
+      "objects": [
+        {
+          "label": "toilet_1",
+          "click_ts": 1753404482965,
+          "x": 388,
+          "y": 304
+        },
+        {
+          "label": "vase_1",
+          "click_ts": 1753404484899,
+          "x": 418,
+          "y": 136
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404486032,
+          "x": 190,
+          "y": 445
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753404492215,
+          "x": 444,
+          "y": 56
+        }
+      ]
+    }
+  ],
+  "1015.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 11687,
+      "objects": [
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404494165,
+          "x": 297,
+          "y": 340
+        },
+        {
+          "label": "carrot_3",
+          "click_ts": 1753404498848,
+          "x": 513,
+          "y": 454
+        },
+        {
+          "label": "cup_2",
+          "click_ts": 1753404501199,
+          "x": 428,
+          "y": 196
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404503298,
+          "x": 642,
+          "y": 316
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404504282,
+          "x": 548,
+          "y": 104
+        }
+      ]
+    }
+  ],
+  "1016.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 10944,
+      "objects": [
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753404510283,
+          "x": 407,
+          "y": 275
+        },
+        {
+          "label": "vase_1",
+          "click_ts": 1753404515797,
+          "x": 408,
+          "y": 297
+        },
+        {
+          "label": "couch_1",
+          "click_ts": 1753404516865,
+          "x": 192,
+          "y": 568
+        },
+        {
+          "label": "bed_1",
+          "click_ts": 1753404518165,
+          "x": 648,
+          "y": 465
+        }
+      ]
+    }
+  ],
+  "1017.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 8970,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753404520065,
+          "x": 434,
+          "y": 355
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404521098,
+          "x": 660,
+          "y": 152
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404522799,
+          "x": 392,
+          "y": 435
+        },
+        {
+          "label": "skateboard_1",
+          "click_ts": 1753404525015,
+          "x": 678,
+          "y": 396
+        },
+        {
+          "label": "stop sign_1",
+          "click_ts": 1753404527466,
+          "x": 192,
+          "y": 380
+        }
+      ]
+    }
+  ],
+  "1018.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 6682,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753404529349,
+          "x": 326,
+          "y": 224
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404530227,
+          "x": 548,
+          "y": 251
+        },
+        {
+          "label": "baseball glove_1",
+          "click_ts": 1753404531332,
+          "x": 115,
+          "y": 345
+        },
+        {
+          "label": "baseball glove_2",
+          "click_ts": 1753404534499,
+          "x": 427,
+          "y": 309
+        }
+      ]
+    }
+  ],
+  "1019.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 14267,
+      "objects": [
+        {
+          "label": "couch_2",
+          "click_ts": 1753404538032,
+          "x": 476,
+          "y": 153
+        },
+        {
+          "label": "cat_1",
+          "click_ts": 1753404538949,
+          "x": 283,
+          "y": 338
+        },
+        {
+          "label": "couch_1",
+          "click_ts": 1753404540599,
+          "x": 462,
+          "y": 453
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753404548866,
+          "x": 34,
+          "y": 537
+        }
+      ]
+    }
+  ],
+  "1020.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 14219,
+      "objects": [
+        {
+          "label": "person_3",
+          "click_ts": 1753404554565,
+          "x": 490,
+          "y": 214
+        },
+        {
+          "label": "book_1",
+          "click_ts": 1753404555099,
+          "x": 342,
+          "y": 206
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404557633,
+          "x": 578,
+          "y": 429
+        },
+        {
+          "label": "bed_1",
+          "click_ts": 1753404563815,
+          "x": 766,
+          "y": 395
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404565115,
+          "x": 39,
+          "y": 290
+        }
+      ]
+    }
+  ],
+  "1021.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 6429,
+      "objects": [
+        {
+          "label": "sandwich_1",
+          "click_ts": 1753404567498,
+          "x": 350,
+          "y": 321
+        },
+        {
+          "label": "sandwich_2",
+          "click_ts": 1753404568864,
+          "x": 325,
+          "y": 489
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404569899,
+          "x": 623,
+          "y": 207
+        },
+        {
+          "label": "fork_1",
+          "click_ts": 1753404570981,
+          "x": 562,
+          "y": 481
+        },
+        {
+          "label": "knife_1",
+          "click_ts": 1753404571964,
+          "x": 668,
+          "y": 400
+        }
+      ]
+    }
+  ],
+  "1022.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 10284,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753404576015,
+          "x": 145,
+          "y": 348
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753404582799,
+          "x": 642,
+          "y": 270
+        },
+        {
+          "label": "stop sign_1",
+          "click_ts": 1753404584149,
+          "x": 290,
+          "y": 217
+        }
+      ]
+    }
+  ],
+  "1023.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 12745,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753404586432,
+          "x": 385,
+          "y": 225
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404587532,
+          "x": 217,
+          "y": 240
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753404588433,
+          "x": 600,
+          "y": 185
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404589449,
+          "x": 419,
+          "y": 488
+        },
+        {
+          "label": "tie_1",
+          "click_ts": 1753404597231,
+          "x": 381,
+          "y": 292
+        }
+      ]
+    }
+  ],
+  "1024.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 10484,
+      "objects": [
+        {
+          "label": "dog_1",
+          "click_ts": 1753404599216,
+          "x": 357,
+          "y": 244
+        },
+        {
+          "label": "handbag_1",
+          "click_ts": 1753404601333,
+          "x": 654,
+          "y": 126
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753404604083,
+          "x": 311,
+          "y": 67
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753404608165,
+          "x": 761,
+          "y": 265
+        }
+      ]
+    }
+  ],
+  "1025.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 5634,
+      "objects": [
+        {
+          "label": "sheep_1",
+          "click_ts": 1753404612033,
+          "x": 476,
+          "y": 325
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404612966,
+          "x": 279,
+          "y": 169
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404615999,
+          "x": 746,
+          "y": 37
+        }
+      ]
+    }
+  ],
+  "1026.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 69030,
+      "objects": [
+        {
+          "label": "bowl_2",
+          "click_ts": 1753404650365,
+          "x": 467,
+          "y": 243
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404651482,
+          "x": 261,
+          "y": 134
+        },
+        {
+          "label": "oven_1",
+          "click_ts": 1753404659666,
+          "x": 184,
+          "y": 216
+        },
+        {
+          "label": "sink_1",
+          "click_ts": 1753404679966,
+          "x": 2,
+          "y": 241
+        }
+      ]
+    }
+  ],
+  "1027.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 7047,
+      "objects": [
+        {
+          "label": "airplane_1",
+          "click_ts": 1753404688266,
+          "x": 460,
+          "y": 175
+        },
+        {
+          "label": "train_1",
+          "click_ts": 1753404689333,
+          "x": 252,
+          "y": 486
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404691183,
+          "x": 510,
+          "y": 508
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753404691999,
+          "x": 591,
+          "y": 516
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404693265,
+          "x": 55,
+          "y": 531
+        }
+      ]
+    }
+  ],
+  "1028.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 9555,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753404697266,
+          "x": 372,
+          "y": 292
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404697983,
+          "x": 627,
+          "y": 118
+        },
+        {
+          "label": "sports ball_1",
+          "click_ts": 1753404699583,
+          "x": 123,
+          "y": 408
+        },
+        {
+          "label": "person_5",
+          "click_ts": 1753404703949,
+          "x": 405,
+          "y": 150
+        },
+        {
+          "label": "person_7",
+          "click_ts": 1753404704716,
+          "x": 518,
+          "y": 199
+        }
+      ]
+    }
+  ],
+  "1030.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 17346,
+      "objects": [
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404706566,
+          "x": 191,
+          "y": 281
+        },
+        {
+          "label": "remote_1",
+          "click_ts": 1753404707732,
+          "x": 328,
+          "y": 50
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404708816,
+          "x": 621,
+          "y": 263
+        },
+        {
+          "label": "keyboard_1",
+          "click_ts": 1753404717149,
+          "x": 88,
+          "y": 9
+        }
+      ]
+    }
+  ],
+  "1031.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 5078,
+      "objects": [
+        {
+          "label": "dog_2",
+          "click_ts": 1753404724699,
+          "x": 415,
+          "y": 293
+        },
+        {
+          "label": "dog_3",
+          "click_ts": 1753404725349,
+          "x": 278,
+          "y": 315
+        },
+        {
+          "label": "frisbee_2",
+          "click_ts": 1753404726265,
+          "x": 277,
+          "y": 175
+        },
+        {
+          "label": "frisbee_1",
+          "click_ts": 1753404726849,
+          "x": 484,
+          "y": 143
+        },
+        {
+          "label": "dog_4",
+          "click_ts": 1753404728049,
+          "x": 741,
+          "y": 340
+        }
+      ]
+    }
+  ],
+  "1032.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 21420,
+      "objects": [
+        {
+          "label": "couch_1",
+          "click_ts": 1753404732865,
+          "x": 386,
+          "y": 397
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753404737165,
+          "x": 623,
+          "y": 453
+        },
+        {
+          "label": "chair_2",
+          "click_ts": 1753404741832,
+          "x": 761,
+          "y": 388
+        },
+        {
+          "label": "vase_2",
+          "click_ts": 1753404747067,
+          "x": 419,
+          "y": 228
+        },
+        {
+          "label": "tv_1",
+          "click_ts": 1753404751333,
+          "x": 737,
+          "y": 173
+        }
+      ]
+    }
+  ],
+  "1033.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 8307,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753404753999,
+          "x": 608,
+          "y": 392
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404754733,
+          "x": 644,
+          "y": 412
+        },
+        {
+          "label": "boat_2",
+          "click_ts": 1753404755582,
+          "x": 501,
+          "y": 199
+        },
+        {
+          "label": "boat_1",
+          "click_ts": 1753404756349,
+          "x": 351,
+          "y": 214
+        }
+      ]
+    }
+  ],
+  "1034.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 4845,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753404762816,
+          "x": 542,
+          "y": 205
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404763782,
+          "x": 618,
+          "y": 191
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753404764566,
+          "x": 207,
+          "y": 138
+        },
+        {
+          "label": "fire hydrant_1",
+          "click_ts": 1753404765283,
+          "x": 349,
+          "y": 446
+        }
+      ]
+    }
+  ],
+  "1035.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 10094,
+      "objects": [
+        {
+          "label": "cake_1",
+          "click_ts": 1753404768867,
+          "x": 363,
+          "y": 231
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404769783,
+          "x": 370,
+          "y": 407
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404771500,
+          "x": 546,
+          "y": 127
+        },
+        {
+          "label": "cell phone_1",
+          "click_ts": 1753404772550,
+          "x": 622,
+          "y": 342
+        },
+        {
+          "label": "fork_1",
+          "click_ts": 1753404777233,
+          "x": 775,
+          "y": 231
+        }
+      ]
+    }
+  ],
+  "1036.jpg": [
+    {
+      "workerId": "c938bcec-4d62-4526-b2e7-cc2fa7af5215",
+      "time_taken": 11545,
+      "objects": [
+        {
+          "label": "knife_1",
+          "click_ts": 1753404780783,
+          "x": 439,
+          "y": 322
+        },
+        {
+          "label": "scissors_1",
+          "click_ts": 1753404781716,
+          "x": 504,
+          "y": 154
+        },
+        {
+          "label": "cell phone_2",
+          "click_ts": 1753404784050,
+          "x": 558,
+          "y": 458
+        },
+        {
+          "label": "cell phone_1",
+          "click_ts": 1753404785299,
+          "x": 135,
+          "y": 384
+        },
+        {
+          "label": "scissors_3",
+          "click_ts": 1753404789182,
+          "x": 579,
+          "y": 120
+        }
+      ]
+    }
+  ],
+  "1037.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 15512,
+      "objects": [
+        {
+          "label": "bird_1",
+          "click_ts": 1753404809048,
+          "x": 351,
+          "y": 146
+        },
+        {
+          "label": "bottle_1",
+          "click_ts": 1753404810132,
+          "x": 402,
+          "y": 394
+        },
+        {
+          "label": "bird_2",
+          "click_ts": 1753404810833,
+          "x": 549,
+          "y": 407
+        }
+      ]
+    }
+  ],
+  "1039.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 3087,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753404812566,
+          "x": 377,
+          "y": 305
+        },
+        {
+          "label": "tennis racket_1",
+          "click_ts": 1753404813617,
+          "x": 248,
+          "y": 65
+        },
+        {
+          "label": "sports ball_1",
+          "click_ts": 1753404814533,
+          "x": 174,
+          "y": 178
+        }
+      ]
+    }
+  ],
+  "1040.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 20470,
+      "objects": [
+        {
+          "label": "vase_1",
+          "click_ts": 1753404817150,
+          "x": 411,
+          "y": 257
+        },
+        {
+          "label": "banana_3",
+          "click_ts": 1753404819416,
+          "x": 656,
+          "y": 363
+        },
+        {
+          "label": "banana_2",
+          "click_ts": 1753404823950,
+          "x": 750,
+          "y": 340
+        }
+      ]
+    }
+  ],
+  "1041.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 10648,
+      "objects": [
+        {
+          "label": "bird_1",
+          "click_ts": 1753404838667,
+          "x": 604,
+          "y": 266
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404839834,
+          "x": 320,
+          "y": 440
+        }
+      ]
+    }
+  ],
+  "1042.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 13914,
+      "objects": [
+        {
+          "label": "person_3",
+          "click_ts": 1753404852849,
+          "x": 441,
+          "y": 158
+        },
+        {
+          "label": "cake_1",
+          "click_ts": 1753404860733,
+          "x": 351,
+          "y": 504
+        },
+        {
+          "label": "bowl_3",
+          "click_ts": 1753404862116,
+          "x": 366,
+          "y": 427
+        },
+        {
+          "label": "bowl_7",
+          "click_ts": 1753404863267,
+          "x": 269,
+          "y": 439
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404863799,
+          "x": 171,
+          "y": 432
+        }
+      ]
+    }
+  ],
+  "1043.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 10903,
+      "objects": [
+        {
+          "label": "cup_1",
+          "click_ts": 1753404865582,
+          "x": 323,
+          "y": 182
+        },
+        {
+          "label": "apple_2",
+          "click_ts": 1753404868117,
+          "x": 624,
+          "y": 380
+        },
+        {
+          "label": "apple_1",
+          "click_ts": 1753404869300,
+          "x": 574,
+          "y": 368
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404873733,
+          "x": 440,
+          "y": 321
+        },
+        {
+          "label": "dining table_2",
+          "click_ts": 1753404875349,
+          "x": 87,
+          "y": 486
+        }
+      ]
+    }
+  ],
+  "1044.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 9511,
+      "objects": [
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404880383,
+          "x": 303,
+          "y": 418
+        },
+        {
+          "label": "spoon_1",
+          "click_ts": 1753404882117,
+          "x": 351,
+          "y": 359
+        },
+        {
+          "label": "bowl_2",
+          "click_ts": 1753404882898,
+          "x": 470,
+          "y": 382
+        },
+        {
+          "label": "oven_3",
+          "click_ts": 1753404883900,
+          "x": 419,
+          "y": 270
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404885367,
+          "x": 588,
+          "y": 218
+        }
+      ]
+    }
+  ],
+  "1045.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 12440,
+      "objects": [
+        {
+          "label": "person_3",
+          "click_ts": 1753404892766,
+          "x": 407,
+          "y": 325
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404893600,
+          "x": 231,
+          "y": 114
+        },
+        {
+          "label": "person_7",
+          "click_ts": 1753404898082,
+          "x": 389,
+          "y": 141
+        },
+        {
+          "label": "person_6",
+          "click_ts": 1753404898816,
+          "x": 363,
+          "y": 147
+        },
+        {
+          "label": "person_5",
+          "click_ts": 1753404900015,
+          "x": 340,
+          "y": 146
+        }
+      ]
+    }
+  ],
+  "1046.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 8224,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753404901898,
+          "x": 539,
+          "y": 277
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404902683,
+          "x": 156,
+          "y": 271
+        },
+        {
+          "label": "boat_1",
+          "click_ts": 1753404903666,
+          "x": 466,
+          "y": 64
+        },
+        {
+          "label": "boat_2",
+          "click_ts": 1753404908800,
+          "x": 529,
+          "y": 49
+        }
+      ]
+    }
+  ],
+  "1047.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 11274,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753404911168,
+          "x": 336,
+          "y": 333
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753404912017,
+          "x": 145,
+          "y": 325
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753404915800,
+          "x": 587,
+          "y": 290
+        },
+        {
+          "label": "backpack_1",
+          "click_ts": 1753404916350,
+          "x": 589,
+          "y": 376
+        }
+      ]
+    }
+  ],
+  "1048.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 9473,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753404928284,
+          "x": 335,
+          "y": 40
+        },
+        {
+          "label": "remote_1",
+          "click_ts": 1753404929084,
+          "x": 283,
+          "y": 221
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404930101,
+          "x": 237,
+          "y": 583
+        },
+        {
+          "label": "book_1",
+          "click_ts": 1753404931449,
+          "x": 612,
+          "y": 478
+        },
+        {
+          "label": "car_2",
+          "click_ts": 1753404933465,
+          "x": 85,
+          "y": 124
+        }
+      ]
+    }
+  ],
+  "1049.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 35431,
+      "objects": [
+        {
+          "label": "vase_2",
+          "click_ts": 1753404947634,
+          "x": 361,
+          "y": 178
+        },
+        {
+          "label": "vase_3",
+          "click_ts": 1753404949701,
+          "x": 276,
+          "y": 194
+        },
+        {
+          "label": "scissors_1",
+          "click_ts": 1753404953033,
+          "x": 501,
+          "y": 381
+        },
+        {
+          "label": "bottle_1",
+          "click_ts": 1753404956484,
+          "x": 66,
+          "y": 170
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753404969500,
+          "x": 780,
+          "y": 144
+        }
+      ]
+    }
+  ],
+  "1050.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 6082,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753404972333,
+          "x": 339,
+          "y": 280
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753404973184,
+          "x": 97,
+          "y": 229
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753404974033,
+          "x": 607,
+          "y": 345
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404975400,
+          "x": 651,
+          "y": 490
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753404976017,
+          "x": 720,
+          "y": 504
+        }
+      ]
+    }
+  ],
+  "1067.jpg": [
+    {
+      "workerId": "6894a315-840c-49eb-b401-7c9d6eb2bb04",
+      "time_taken": 20813,
+      "objects": [
+        {
+          "label": "dining table_1",
+          "click_ts": 1753404982033,
+          "x": 290,
+          "y": 229
+        },
+        {
+          "label": "fork_1",
+          "click_ts": 1753404988200,
+          "x": 534,
+          "y": 214
+        },
+        {
+          "label": "orange_1",
+          "click_ts": 1753404990468,
+          "x": 587,
+          "y": 90
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753404994300,
+          "x": 141,
+          "y": 165
+        },
+        {
+          "label": "bowl_2",
+          "click_ts": 1753404999150,
+          "x": 598,
+          "y": 45
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000004595.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 16436,
+      "objects": [
+        {
+          "label": "bus_1",
+          "click_ts": 1753237000040,
+          "x": 457,
+          "y": 215
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753237000687,
+          "x": 378,
+          "y": 172
+        },
+        {
+          "label": "bus_2",
+          "click_ts": 1753237004366,
+          "x": 604,
+          "y": 195
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753237007951,
+          "x": 50,
+          "y": 196
+        },
+        {
+          "label": "bus_3",
+          "click_ts": 1753237014279,
+          "x": 54,
+          "y": 158
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000012650.jpg": [
+    {
+      "workerId": "93d3d4b5-fe47-4e06-a8e7-9b7b993e10e8",
+      "time_taken": 13262,
+      "objects": [
+        {
+          "label": "person_10",
+          "click_ts": 1753237174093,
+          "x": 335,
+          "y": 217
+        },
+        {
+          "label": "person_13",
+          "click_ts": 1753237174799,
+          "x": 317,
+          "y": 235
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753237175701,
+          "x": 242,
+          "y": 238
+        },
+        {
+          "label": "motorcycle_3",
+          "click_ts": 1753237180238,
+          "x": 537,
+          "y": 414
+        },
+        {
+          "label": "bicycle_1",
+          "click_ts": 1753237180958,
+          "x": 386,
+          "y": 360
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000021343.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 12662,
+      "objects": [
+        {
+          "label": "parking meter_1",
+          "click_ts": 1753237057086,
+          "x": 195,
+          "y": 375
+        },
+        {
+          "label": "parking meter_2",
+          "click_ts": 1753237058495,
+          "x": 224,
+          "y": 311
+        },
+        {
+          "label": "parking meter_3",
+          "click_ts": 1753237059503,
+          "x": 241,
+          "y": 291
+        },
+        {
+          "label": "truck_3",
+          "click_ts": 1753237063767,
+          "x": 547,
+          "y": 278
+        },
+        {
+          "label": "truck_1",
+          "click_ts": 1753237064639,
+          "x": 513,
+          "y": 275
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000036417.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 16277,
+      "objects": [
+        {
+          "label": "apple_1",
+          "click_ts": 1753236317163,
+          "x": 203,
+          "y": 216
+        },
+        {
+          "label": "banana_1",
+          "click_ts": 1753236318030,
+          "x": 262,
+          "y": 344
+        },
+        {
+          "label": "bottle_1",
+          "click_ts": 1753236320748,
+          "x": 311,
+          "y": 87
+        },
+        {
+          "label": "book_1",
+          "click_ts": 1753236327314,
+          "x": 182,
+          "y": 131
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753236331715,
+          "x": 577,
+          "y": 77
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000044815.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 7940,
+      "objects": [
+        {
+          "label": "banana_2",
+          "click_ts": 1753236441077,
+          "x": 336,
+          "y": 236
+        },
+        {
+          "label": "banana_1",
+          "click_ts": 1753236442711,
+          "x": 504,
+          "y": 257
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236445746,
+          "x": 98,
+          "y": 182
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753236446563,
+          "x": 200,
+          "y": 109
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753236447430,
+          "x": 287,
+          "y": 79
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000054868.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 14808,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753237076911,
+          "x": 397,
+          "y": 189
+        },
+        {
+          "label": "sports ball_1",
+          "click_ts": 1753237079006,
+          "x": 389,
+          "y": 39
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753237087582,
+          "x": 271,
+          "y": 152
+        },
+        {
+          "label": "person_9",
+          "click_ts": 1753237088486,
+          "x": 224,
+          "y": 152
+        },
+        {
+          "label": "person_7",
+          "click_ts": 1753237089143,
+          "x": 183,
+          "y": 149
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000055873.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 7719,
+      "objects": [
+        {
+          "label": "dining table_1",
+          "click_ts": 1753236333780,
+          "x": 271,
+          "y": 198
+        },
+        {
+          "label": "apple_3",
+          "click_ts": 1753236334548,
+          "x": 390,
+          "y": 242
+        },
+        {
+          "label": "apple_1",
+          "click_ts": 1753236337531,
+          "x": 140,
+          "y": 330
+        },
+        {
+          "label": "orange_1",
+          "click_ts": 1753236339081,
+          "x": 45,
+          "y": 208
+        },
+        {
+          "label": "orange_5",
+          "click_ts": 1753236339930,
+          "x": 167,
+          "y": 87
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000060890.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 11683,
+      "objects": [
+        {
+          "label": "bird_1",
+          "click_ts": 1753236940936,
+          "x": 358,
+          "y": 149
+        },
+        {
+          "label": "bird_2",
+          "click_ts": 1753236942135,
+          "x": 128,
+          "y": 342
+        },
+        {
+          "label": "truck_1",
+          "click_ts": 1753236944934,
+          "x": 514,
+          "y": 141
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753236945920,
+          "x": 275,
+          "y": 163
+        },
+        {
+          "label": "truck_2",
+          "click_ts": 1753236950399,
+          "x": 11,
+          "y": 132
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000066129.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 14811,
+      "objects": [
+        {
+          "label": "pizza_1",
+          "click_ts": 1753236831456,
+          "x": 328,
+          "y": 306
+        },
+        {
+          "label": "dining table_2",
+          "click_ts": 1753236832622,
+          "x": 528,
+          "y": 361
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236834302,
+          "x": 91,
+          "y": 52
+        },
+        {
+          "label": "chair_6",
+          "click_ts": 1753236835926,
+          "x": 329,
+          "y": 173
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753236843630,
+          "x": 483,
+          "y": 178
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000073040.jpg": [
+    {
+      "workerId": "93d3d4b5-fe47-4e06-a8e7-9b7b993e10e8",
+      "time_taken": 9144,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753237162165,
+          "x": 151,
+          "y": 316
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753237163638,
+          "x": 410,
+          "y": 320
+        },
+        {
+          "label": "chair_4",
+          "click_ts": 1753237164726,
+          "x": 430,
+          "y": 323
+        },
+        {
+          "label": "chair_3",
+          "click_ts": 1753237166278,
+          "x": 406,
+          "y": 198
+        },
+        {
+          "label": "chair_2",
+          "click_ts": 1753237167206,
+          "x": 479,
+          "y": 204
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000096568.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 11935,
+      "objects": [
+        {
+          "label": "dining table_2",
+          "click_ts": 1753236884669,
+          "x": 226,
+          "y": 205
+        },
+        {
+          "label": "carrot_2",
+          "click_ts": 1753236885492,
+          "x": 394,
+          "y": 196
+        },
+        {
+          "label": "carrot_1",
+          "click_ts": 1753236886892,
+          "x": 238,
+          "y": 114
+        },
+        {
+          "label": "carrot_4",
+          "click_ts": 1753236891915,
+          "x": 170,
+          "y": 291
+        },
+        {
+          "label": "broccoli_4",
+          "click_ts": 1753236893811,
+          "x": 139,
+          "y": 233
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000113199.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 9224,
+      "objects": [
+        {
+          "label": "pizza_1",
+          "click_ts": 1753236965367,
+          "x": 356,
+          "y": 286
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753236966544,
+          "x": 292,
+          "y": 401
+        },
+        {
+          "label": "spoon_1",
+          "click_ts": 1753236970608,
+          "x": 421,
+          "y": 101
+        },
+        {
+          "label": "knife_2",
+          "click_ts": 1753236971744,
+          "x": 515,
+          "y": 104
+        },
+        {
+          "label": "fork_1",
+          "click_ts": 1753236972719,
+          "x": 550,
+          "y": 31
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000114169.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 17462,
+      "objects": [
+        {
+          "label": "pizza_1",
+          "click_ts": 1753236659567,
+          "x": 327,
+          "y": 247
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236661166,
+          "x": 222,
+          "y": 85
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753236662438,
+          "x": 45,
+          "y": 371
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753236663824,
+          "x": 588,
+          "y": 131
+        },
+        {
+          "label": "chair_3",
+          "click_ts": 1753236664894,
+          "x": 481,
+          "y": 52
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000142191.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 14008,
+      "objects": [
+        {
+          "label": "train_1",
+          "click_ts": 1753236372331,
+          "x": 333,
+          "y": 228
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753236373948,
+          "x": 127,
+          "y": 215
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236374764,
+          "x": 158,
+          "y": 207
+        },
+        {
+          "label": "person_4",
+          "click_ts": 1753236376515,
+          "x": 109,
+          "y": 213
+        },
+        {
+          "label": "handbag_4",
+          "click_ts": 1753236384964,
+          "x": 86,
+          "y": 215
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000147873.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 17125,
+      "objects": [
+        {
+          "label": "knife_3",
+          "click_ts": 1753236769367,
+          "x": 394,
+          "y": 203
+        },
+        {
+          "label": "vase_1",
+          "click_ts": 1753236771470,
+          "x": 379,
+          "y": 252
+        },
+        {
+          "label": "sink_1",
+          "click_ts": 1753236773655,
+          "x": 272,
+          "y": 289
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753236774598,
+          "x": 146,
+          "y": 299
+        },
+        {
+          "label": "bowl_2",
+          "click_ts": 1753236779830,
+          "x": 181,
+          "y": 270
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000173843.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 12766,
+      "objects": [
+        {
+          "label": "oven_1",
+          "click_ts": 1753236428847,
+          "x": 365,
+          "y": 269
+        },
+        {
+          "label": "bottle_2",
+          "click_ts": 1753236431849,
+          "x": 458,
+          "y": 407
+        },
+        {
+          "label": "bottle_1",
+          "click_ts": 1753236432833,
+          "x": 398,
+          "y": 448
+        },
+        {
+          "label": "refrigerator_1",
+          "click_ts": 1753236434653,
+          "x": 523,
+          "y": 208
+        },
+        {
+          "label": "sink_1",
+          "click_ts": 1753236439025,
+          "x": 430,
+          "y": 180
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000177349.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 12937,
+      "objects": [
+        {
+          "label": "person_4",
+          "click_ts": 1753236902066,
+          "x": 303,
+          "y": 65
+        },
+        {
+          "label": "person_5",
+          "click_ts": 1753236904913,
+          "x": 529,
+          "y": 32
+        },
+        {
+          "label": "person_6",
+          "click_ts": 1753236905649,
+          "x": 619,
+          "y": 148
+        },
+        {
+          "label": "person_8",
+          "click_ts": 1753236906440,
+          "x": 605,
+          "y": 125
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753236907289,
+          "x": 242,
+          "y": 65
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000185760.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 5121,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753236345430,
+          "x": 368,
+          "y": 287
+        },
+        {
+          "label": "person_5",
+          "click_ts": 1753236346231,
+          "x": 286,
+          "y": 278
+        },
+        {
+          "label": "person_9",
+          "click_ts": 1753236347014,
+          "x": 243,
+          "y": 281
+        },
+        {
+          "label": "motorcycle_1",
+          "click_ts": 1753236347997,
+          "x": 430,
+          "y": 422
+        },
+        {
+          "label": "backpack_1",
+          "click_ts": 1753236348880,
+          "x": 476,
+          "y": 285
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000204837.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 39672,
+      "objects": [
+        {
+          "label": "person_2",
+          "click_ts": 1753236287616,
+          "x": 206,
+          "y": 194
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236288364,
+          "x": 440,
+          "y": 180
+        },
+        {
+          "label": "pizza_1",
+          "click_ts": 1753236289130,
+          "x": 272,
+          "y": 370
+        },
+        {
+          "label": "handbag_1",
+          "click_ts": 1753236290229,
+          "x": 90,
+          "y": 80
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753236299030,
+          "x": 78,
+          "y": 218
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000207048.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 6963,
+      "objects": [
+        {
+          "label": "person_6",
+          "click_ts": 1753236933592,
+          "x": 369,
+          "y": 178
+        },
+        {
+          "label": "person_4",
+          "click_ts": 1753236934728,
+          "x": 295,
+          "y": 190
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236935624,
+          "x": 200,
+          "y": 199
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753236936127,
+          "x": 267,
+          "y": 137
+        },
+        {
+          "label": "person_5",
+          "click_ts": 1753236938208,
+          "x": 330,
+          "y": 161
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000215558.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 8231,
+      "objects": [
+        {
+          "label": "kite_1",
+          "click_ts": 1753236399431,
+          "x": 243,
+          "y": 243
+        },
+        {
+          "label": "kite_2",
+          "click_ts": 1753236400412,
+          "x": 364,
+          "y": 215
+        },
+        {
+          "label": "kite_3",
+          "click_ts": 1753236401646,
+          "x": 554,
+          "y": 222
+        },
+        {
+          "label": "kite_5",
+          "click_ts": 1753236403814,
+          "x": 124,
+          "y": 180
+        },
+        {
+          "label": "kite_4",
+          "click_ts": 1753236405664,
+          "x": 286,
+          "y": 246
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000222961.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 7536,
+      "objects": [
+        {
+          "label": "motorcycle_3",
+          "click_ts": 1753237069551,
+          "x": 302,
+          "y": 342
+        },
+        {
+          "label": "motorcycle_4",
+          "click_ts": 1753237070279,
+          "x": 388,
+          "y": 342
+        },
+        {
+          "label": "motorcycle_6",
+          "click_ts": 1753237070743,
+          "x": 451,
+          "y": 342
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753237072611,
+          "x": 111,
+          "y": 328
+        },
+        {
+          "label": "motorcycle_1",
+          "click_ts": 1753237073919,
+          "x": 133,
+          "y": 339
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000227010.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 7590,
+      "objects": [
+        {
+          "label": "pizza_1",
+          "click_ts": 1753236909657,
+          "x": 338,
+          "y": 203
+        },
+        {
+          "label": "bench_1",
+          "click_ts": 1753236911793,
+          "x": 72,
+          "y": 164
+        },
+        {
+          "label": "dining table_2",
+          "click_ts": 1753236913368,
+          "x": 410,
+          "y": 67
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753236914416,
+          "x": 591,
+          "y": 119
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753236915448,
+          "x": 593,
+          "y": 230
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000243268.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 19173,
+      "objects": [
+        {
+          "label": "sports ball_1",
+          "click_ts": 1753236730845,
+          "x": 286,
+          "y": 73
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236731816,
+          "x": 386,
+          "y": 185
+        },
+        {
+          "label": "baseball glove_1",
+          "click_ts": 1753236735318,
+          "x": 428,
+          "y": 261
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753236737871,
+          "x": 28,
+          "y": 287
+        },
+        {
+          "label": "baseball glove_2",
+          "click_ts": 1753236743726,
+          "x": 76,
+          "y": 337
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000260604.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 10502,
+      "objects": [
+        {
+          "label": "bus_1",
+          "click_ts": 1753236955088,
+          "x": 360,
+          "y": 249
+        },
+        {
+          "label": "bus_2",
+          "click_ts": 1753236956479,
+          "x": 222,
+          "y": 226
+        },
+        {
+          "label": "bus_3",
+          "click_ts": 1753236957248,
+          "x": 152,
+          "y": 216
+        },
+        {
+          "label": "car_14",
+          "click_ts": 1753236958328,
+          "x": 283,
+          "y": 242
+        },
+        {
+          "label": "truck_1",
+          "click_ts": 1753236962920,
+          "x": 568,
+          "y": 168
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000260748.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 12574,
+      "objects": [
+        {
+          "label": "bowl_3",
+          "click_ts": 1753236417264,
+          "x": 245,
+          "y": 291
+        },
+        {
+          "label": "apple_1",
+          "click_ts": 1753236418096,
+          "x": 187,
+          "y": 287
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753236418747,
+          "x": 152,
+          "y": 234
+        },
+        {
+          "label": "broccoli_1",
+          "click_ts": 1753236421397,
+          "x": 528,
+          "y": 287
+        },
+        {
+          "label": "potted plant_2",
+          "click_ts": 1753236424047,
+          "x": 620,
+          "y": 216
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000265225.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 25627,
+      "objects": [
+        {
+          "label": "chair_1",
+          "click_ts": 1753236680838,
+          "x": 372,
+          "y": 313
+        },
+        {
+          "label": "tv_1",
+          "click_ts": 1753236682670,
+          "x": 313,
+          "y": 194
+        },
+        {
+          "label": "chair_2",
+          "click_ts": 1753236684758,
+          "x": 228,
+          "y": 391
+        },
+        {
+          "label": "couch_1",
+          "click_ts": 1753236686014,
+          "x": 50,
+          "y": 335
+        },
+        {
+          "label": "suitcase_1",
+          "click_ts": 1753236691262,
+          "x": 525,
+          "y": 291
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000284259.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 10724,
+      "objects": [
+        {
+          "label": "carrot_5",
+          "click_ts": 1753236819350,
+          "x": 332,
+          "y": 194
+        },
+        {
+          "label": "broccoli_4",
+          "click_ts": 1753236820974,
+          "x": 163,
+          "y": 327
+        },
+        {
+          "label": "broccoli_2",
+          "click_ts": 1753236823477,
+          "x": 328,
+          "y": 367
+        },
+        {
+          "label": "broccoli_3",
+          "click_ts": 1753236826246,
+          "x": 90,
+          "y": 120
+        },
+        {
+          "label": "broccoli_1",
+          "click_ts": 1753236827078,
+          "x": 87,
+          "y": 220
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000324488.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 11033,
+      "objects": [
+        {
+          "label": "dining table_1",
+          "click_ts": 1753237043647,
+          "x": 409,
+          "y": 331
+        },
+        {
+          "label": "fork_1",
+          "click_ts": 1753237047623,
+          "x": 338,
+          "y": 352
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753237048431,
+          "x": 571,
+          "y": 316
+        },
+        {
+          "label": "bottle_1",
+          "click_ts": 1753237050447,
+          "x": 359,
+          "y": 135
+        },
+        {
+          "label": "bottle_2",
+          "click_ts": 1753237051479,
+          "x": 421,
+          "y": 142
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000329762.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 8797,
+      "objects": [
+        {
+          "label": "tv_2",
+          "click_ts": 1753236976247,
+          "x": 253,
+          "y": 317
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753236976951,
+          "x": 462,
+          "y": 307
+        },
+        {
+          "label": "book_6",
+          "click_ts": 1753236980351,
+          "x": 205,
+          "y": 84
+        },
+        {
+          "label": "book_2",
+          "click_ts": 1753236981231,
+          "x": 286,
+          "y": 82
+        },
+        {
+          "label": "book_5",
+          "click_ts": 1753236981887,
+          "x": 329,
+          "y": 81
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000339849.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 20918,
+      "objects": [
+        {
+          "label": "orange_2",
+          "click_ts": 1753236784862,
+          "x": 429,
+          "y": 309
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753236796438,
+          "x": 414,
+          "y": 357
+        },
+        {
+          "label": "orange_1",
+          "click_ts": 1753236797558,
+          "x": 374,
+          "y": 328
+        },
+        {
+          "label": "sink_1",
+          "click_ts": 1753236800638,
+          "x": 446,
+          "y": 431
+        },
+        {
+          "label": "bowl_2",
+          "click_ts": 1753236802598,
+          "x": 398,
+          "y": 89
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000359048.jpg": [
+    {
+      "workerId": "93d3d4b5-fe47-4e06-a8e7-9b7b993e10e8",
+      "time_taken": 16192,
+      "objects": [
+        {
+          "label": "bicycle_1",
+          "click_ts": 1753237195092,
+          "x": 246,
+          "y": 303
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753237196894,
+          "x": 96,
+          "y": 242
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753237197670,
+          "x": 178,
+          "y": 204
+        },
+        {
+          "label": "chair_2",
+          "click_ts": 1753237198461,
+          "x": 462,
+          "y": 315
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753237199350,
+          "x": 620,
+          "y": 280
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000367538.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 4349,
+      "objects": [
+        {
+          "label": "person_5",
+          "click_ts": 1753236350964,
+          "x": 304,
+          "y": 250
+        },
+        {
+          "label": "umbrella_1",
+          "click_ts": 1753236351864,
+          "x": 254,
+          "y": 185
+        },
+        {
+          "label": "umbrella_2",
+          "click_ts": 1753236352564,
+          "x": 279,
+          "y": 117
+        },
+        {
+          "label": "umbrella_7",
+          "click_ts": 1753236353331,
+          "x": 293,
+          "y": 38
+        },
+        {
+          "label": "umbrella_3",
+          "click_ts": 1753236354046,
+          "x": 113,
+          "y": 88
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000377416.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 9751,
+      "objects": [
+        {
+          "label": "book_1",
+          "click_ts": 1753236387865,
+          "x": 170,
+          "y": 376
+        },
+        {
+          "label": "bed_1",
+          "click_ts": 1753236388946,
+          "x": 156,
+          "y": 298
+        },
+        {
+          "label": "suitcase_1",
+          "click_ts": 1753236395196,
+          "x": 570,
+          "y": 384
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000389011.jpg": [
+    {
+      "workerId": "93d3d4b5-fe47-4e06-a8e7-9b7b993e10e8",
+      "time_taken": 16771,
+      "objects": [
+        {
+          "label": "apple_1",
+          "click_ts": 1753237145038,
+          "x": 261,
+          "y": 354
+        },
+        {
+          "label": "banana_1",
+          "click_ts": 1753237146238,
+          "x": 427,
+          "y": 353
+        },
+        {
+          "label": "cat_1",
+          "click_ts": 1753237148710,
+          "x": 473,
+          "y": 50
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753237157678,
+          "x": 136,
+          "y": 21
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000391117.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 5144,
+      "objects": [
+        {
+          "label": "bus_1",
+          "click_ts": 1753236356065,
+          "x": 337,
+          "y": 219
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236360097,
+          "x": 430,
+          "y": 235
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000396029.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 18831,
+      "objects": [
+        {
+          "label": "carrot_7",
+          "click_ts": 1753236695838,
+          "x": 388,
+          "y": 313
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753236696750,
+          "x": 344,
+          "y": 253
+        },
+        {
+          "label": "fork_1",
+          "click_ts": 1753236698950,
+          "x": 120,
+          "y": 247
+        },
+        {
+          "label": "knife_2",
+          "click_ts": 1753236700630,
+          "x": 533,
+          "y": 286
+        },
+        {
+          "label": "carrot_4",
+          "click_ts": 1753236710702,
+          "x": 368,
+          "y": 324
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000401569.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 16264,
+      "objects": [
+        {
+          "label": "toilet_1",
+          "click_ts": 1753237026079,
+          "x": 331,
+          "y": 305
+        },
+        {
+          "label": "sink_1",
+          "click_ts": 1753237030295,
+          "x": 66,
+          "y": 438
+        },
+        {
+          "label": "bowl_2",
+          "click_ts": 1753237032439,
+          "x": 168,
+          "y": 312
+        },
+        {
+          "label": "bowl_1",
+          "click_ts": 1753237033455,
+          "x": 95,
+          "y": 242
+        },
+        {
+          "label": "vase_1",
+          "click_ts": 1753237040071,
+          "x": 27,
+          "y": 339
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000406424.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 11462,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753236713374,
+          "x": 445,
+          "y": 280
+        },
+        {
+          "label": "motorcycle_1",
+          "click_ts": 1753236716654,
+          "x": 325,
+          "y": 371
+        },
+        {
+          "label": "backpack_1",
+          "click_ts": 1753236722606,
+          "x": 520,
+          "y": 370
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000440243.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 13004,
+      "objects": [
+        {
+          "label": "train_1",
+          "click_ts": 1753236808550,
+          "x": 298,
+          "y": 239
+        },
+        {
+          "label": "person_6",
+          "click_ts": 1753236813574,
+          "x": 161,
+          "y": 249
+        },
+        {
+          "label": "backpack_1",
+          "click_ts": 1753236814342,
+          "x": 152,
+          "y": 241
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753236815334,
+          "x": 170,
+          "y": 238
+        },
+        {
+          "label": "person_3",
+          "click_ts": 1753236815942,
+          "x": 184,
+          "y": 240
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000456251.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 12221,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753236846030,
+          "x": 358,
+          "y": 215
+        },
+        {
+          "label": "bottle_2",
+          "click_ts": 1753236847150,
+          "x": 387,
+          "y": 343
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753236853173,
+          "x": 179,
+          "y": 340
+        },
+        {
+          "label": "tv_1",
+          "click_ts": 1753236854486,
+          "x": 51,
+          "y": 440
+        },
+        {
+          "label": "couch_1",
+          "click_ts": 1753236856358,
+          "x": 548,
+          "y": 470
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000465457.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 8161,
+      "objects": [
+        {
+          "label": "banana_2",
+          "click_ts": 1753236364547,
+          "x": 348,
+          "y": 243
+        },
+        {
+          "label": "banana_1",
+          "click_ts": 1753236365764,
+          "x": 123,
+          "y": 337
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753236366631,
+          "x": 109,
+          "y": 143
+        },
+        {
+          "label": "bottle_1",
+          "click_ts": 1753236369198,
+          "x": 216,
+          "y": 59
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753236370364,
+          "x": 549,
+          "y": 351
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000466547.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 22819,
+      "objects": [
+        {
+          "label": "bus_1",
+          "click_ts": 1753236859113,
+          "x": 248,
+          "y": 387
+        },
+        {
+          "label": "bench_1",
+          "click_ts": 1753236867998,
+          "x": 319,
+          "y": 425
+        },
+        {
+          "label": "bus_2",
+          "click_ts": 1753236869021,
+          "x": 27,
+          "y": 402
+        },
+        {
+          "label": "car_1",
+          "click_ts": 1753236870212,
+          "x": 580,
+          "y": 416
+        },
+        {
+          "label": "clock_1",
+          "click_ts": 1753236879502,
+          "x": 526,
+          "y": 80
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000480890.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 18179,
+      "objects": [
+        {
+          "label": "person_1",
+          "click_ts": 1753236746062,
+          "x": 336,
+          "y": 220
+        },
+        {
+          "label": "potted plant_2",
+          "click_ts": 1753236751454,
+          "x": 238,
+          "y": 254
+        },
+        {
+          "label": "potted plant_3",
+          "click_ts": 1753236752470,
+          "x": 598,
+          "y": 187
+        },
+        {
+          "label": "potted plant_1",
+          "click_ts": 1753236757134,
+          "x": 509,
+          "y": 374
+        },
+        {
+          "label": "bench_1",
+          "click_ts": 1753236762294,
+          "x": 393,
+          "y": 348
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000500694.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 4832,
+      "objects": [
+        {
+          "label": "microwave_1",
+          "click_ts": 1753236408214,
+          "x": 329,
+          "y": 181
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753236409113,
+          "x": 160,
+          "y": 215
+        },
+        {
+          "label": "person_2",
+          "click_ts": 1753236409930,
+          "x": 510,
+          "y": 145
+        },
+        {
+          "label": "bottle_1",
+          "click_ts": 1753236410897,
+          "x": 323,
+          "y": 56
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000518509.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 6775,
+      "objects": [
+        {
+          "label": "cup_2",
+          "click_ts": 1753237016568,
+          "x": 252,
+          "y": 251
+        },
+        {
+          "label": "bowl_3",
+          "click_ts": 1753237018231,
+          "x": 381,
+          "y": 74
+        },
+        {
+          "label": "cup_1",
+          "click_ts": 1753237019079,
+          "x": 545,
+          "y": 218
+        },
+        {
+          "label": "bowl_5",
+          "click_ts": 1753237019687,
+          "x": 535,
+          "y": 428
+        },
+        {
+          "label": "bowl_2",
+          "click_ts": 1753237021431,
+          "x": 178,
+          "y": 402
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000523639.jpg": [
+    {
+      "workerId": "93d3d4b5-fe47-4e06-a8e7-9b7b993e10e8",
+      "time_taken": 21754,
+      "objects": [
+        {
+          "label": "donut_1",
+          "click_ts": 1753237129358,
+          "x": 508,
+          "y": 114
+        },
+        {
+          "label": "person_1",
+          "click_ts": 1753237130150,
+          "x": 482,
+          "y": 50
+        },
+        {
+          "label": "remote_1",
+          "click_ts": 1753237132254,
+          "x": 395,
+          "y": 382
+        },
+        {
+          "label": "dining table_1",
+          "click_ts": 1753237140278,
+          "x": 206,
+          "y": 419
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000530038.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 12719,
+      "objects": [
+        {
+          "label": "remote_2",
+          "click_ts": 1753236921736,
+          "x": 160,
+          "y": 353
+        },
+        {
+          "label": "couch_1",
+          "click_ts": 1753236923016,
+          "x": 166,
+          "y": 284
+        },
+        {
+          "label": "chair_1",
+          "click_ts": 1753236924072,
+          "x": 316,
+          "y": 244
+        },
+        {
+          "label": "book_9",
+          "click_ts": 1753236928912,
+          "x": 489,
+          "y": 217
+        },
+        {
+          "label": "book_1",
+          "click_ts": 1753236930816,
+          "x": 452,
+          "y": 252
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000561436.jpg": [
+    {
+      "workerId": "fd38cea9-521b-4117-a6fd-05d48443a4d6",
+      "time_taken": 15229,
+      "objects": [
+        {
+          "label": "bear_2",
+          "click_ts": 1753236314164,
+          "x": 136,
+          "y": 209
+        },
+        {
+          "label": "bear_1",
+          "click_ts": 1753236314965,
+          "x": 540,
+          "y": 252
+        }
+      ]
+    }
+  ],
+  "COCO_train2014_000000572171.jpg": [
+    {
+      "workerId": "1b70213c-f008-4098-81fe-f91c6c2e2350",
+      "time_taken": 13876,
+      "objects": [
+        {
+          "label": "car_1",
+          "click_ts": 1753236986224,
+          "x": 288,
+          "y": 357
+        },
+        {
+          "label": "traffic light_3",
+          "click_ts": 1753236987791,
+          "x": 310,
+          "y": 192
+        },
+        {
+          "label": "traffic light_2",
+          "click_ts": 1753236990335,
+          "x": 493,
+          "y": 276
+        },
+        {
+          "label": "traffic light_1",
+          "click_ts": 1753236996527,
+          "x": 313,
+          "y": 214
+        },
+        {
+          "label": "fire hydrant_1",
+          "click_ts": 1753236997591,
+          "x": 466,
+          "y": 362
+        }
+      ]
+    }
+  ]
+}
